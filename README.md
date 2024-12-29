@@ -14,16 +14,16 @@ Pronomes: Ele
 
 ---
 
-## Dicas para Personalizar:
+## Habilidades:
 
-- **Seja mais específico**: Ao invés de "tecnologias de dados", você poderia mencionar áreas como "análise de dados", "machine learning" ou "visualização de dados".
-- **Destaque seus projetos**: Se você já possui algum projeto pessoal, mencione-o brevemente para mostrar suas habilidades.
-- **Conecte seus interesses**: Explore como suas paixões pela enfermagem e pela tecnologia se intersectam. Por exemplo, você poderia mencionar que está interessado em desenvolver ferramentas de análise de dados para otimizar a gestão de leitos em hospitais.
+- **Em desenvolvimento**: "análise de dados", "machine learning" ou "visualização de dados".
+- **Em elaboração**: Junto com a DIO, estou melhorando minhas habilidades.
+- **Conecte seus interesses**: Explorando este mundo como minhas paixões pela enfermagem e pela tecnologia, intersectando conexões. Por exemplo, desenvolvendo ferramentas de análise de dados para otimizar a gestão de leitos em hospitais.
 
 ---
 
-## Ideias para Projetos de Colaboração:
+## Projetos de Colaboração:
 
-- **Desenvolvimento de dashboards**: Crie dashboards interativos no Power BI para visualizar dados de pacientes, otimizar processos e identificar tendências.
-- **Chatbots para atendimento ao paciente**: Use inteligência artificial para desenvolver chatbots que possam responder a perguntas frequentes e fornecer informações personalizadas aos pacientes.
-- **Análise de dados clínicos**: Aplique técnicas de machine learning para identificar padrões em dados clínicos e auxiliar no diagnóstico de doenças.
+- **Desenvolvimento de dashboards**: Intenção de criar dashboards interativos no Power BI para visualizar dados de pacientes, otimizando os processos e identificando as tendências.
+- **Chatbots para atendimento ao paciente**: Utilizei a inteligência artificial para desenvolver chatbots que possam responder a perguntas frequentes e fornecer informações personalizadas aos pacientes.
+- **Análise de dados clínicos**: Elaborando técnicas de machine learning para identificar padrões em dados clínicos e auxiliar no diagnóstico de doenças.
